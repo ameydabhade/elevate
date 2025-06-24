@@ -1,0 +1,20 @@
+{
+  "name": "elevate-portfolio",
+  "version": "1.0.0",
+  "description": "Elevate^ - A modern portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'No build step required for static site'",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "static",
+    "framer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+} 
