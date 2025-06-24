@@ -1,0 +1,20 @@
+{
+  "name": "elevate-website",
+  "version": "1.0.0",
+  "description": "Elevate^ - A modern website built with Framer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static build - no build process needed'",
+    "start": "serve ."
+  },
+  "keywords": ["elevate", "website", "framer", "static"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
